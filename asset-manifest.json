@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Minimilistic_weather_app/static/css/main.0886717f.css",
+    "main.js": "/Minimilistic_weather_app/static/js/main.9f0e4371.js",
+    "static/media/humidity_img.png": "/Minimilistic_weather_app/static/media/humidity_img.8ab349dbe18b8f3fce5e.png",
+    "static/media/pressure_img.png": "/Minimilistic_weather_app/static/media/pressure_img.0cb72b298555c4192aa7.png",
+    "static/media/wind_img.png": "/Minimilistic_weather_app/static/media/wind_img.9d10fc839fa6633406a4.png",
+    "index.html": "/Minimilistic_weather_app/index.html",
+    "main.0886717f.css.map": "/Minimilistic_weather_app/static/css/main.0886717f.css.map",
+    "main.9f0e4371.js.map": "/Minimilistic_weather_app/static/js/main.9f0e4371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0886717f.css",
+    "static/js/main.9f0e4371.js"
+  ]
+}
