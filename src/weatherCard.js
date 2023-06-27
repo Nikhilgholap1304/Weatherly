@@ -45,7 +45,7 @@ const WeatherCard = ({ tempInfo }) => {
           setWeatherState("DQy8Tvc/thunderstorm");
           break;
         case "Snow":
-          setWeatherState("vs4wWjs/snow.png");
+          setWeatherState("vs4wWjs/snow");
           break;
         default:
           setWeatherState("YdYL9Rh/clear");
